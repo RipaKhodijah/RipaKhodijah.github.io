@@ -18,7 +18,7 @@ Research Experience
 ======
 * **Undergraduate Researcher**
   * Conducted research on volcanic activities and environmental impacts, focusing on Mount Lewotobi Laki-laki and Mount Llaima.
-  * Analyzed lagged relationships between volcanic $\text{SO}_2$ emissions and local weather parameters using PlanetScope imagery and NASA Giovanni.
+  * Analyzed lagged relationships between volcanic emissions and local weather parameters using PlanetScope imagery and NASA Giovanni.
 
 Field & Environmental Experience
 ======
@@ -35,11 +35,5 @@ Skills
 Publications
 ======
 <ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-Teaching
-======
-<ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
