@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Bachelor of Physics**, Specializing in Geophysics
+* **Alumna of Bangkit Academy**, Machine Learning Cohort
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Undergraduate Researcher**
+  * Conducted research on volcanic activities and environmental impacts, focusing on Mount Lewotobi Laki-laki and Mount Llaima.
+  * Analyzed lagged relationships between volcanic $\text{SO}_2$ emissions and local weather parameters using PlanetScope imagery and NASA Giovanni.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Field & Environmental Experience
+======
+* **Seven Summit Volcanoes Expedition**
+  * Field Experience participant, conducting environmental observations and volcanic fieldwork.
+* **Komunitas Hijau Fisika**
+  * Served as the former Chairperson, leading environmental initiatives and community programs.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Geophysics & Spatial Analysis:** Remote Sensing, Geographic Information Systems (GIS), Volcanology, Atmospheric Science.
+* **Data Science & ML:** Machine Learning, Data Analytics, Python.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
