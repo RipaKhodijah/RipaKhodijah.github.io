@@ -17,7 +17,7 @@ repository                : "RipaKhodijah/RipaKhodijah.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "profile.png" # Nanti kamu bisa upload foto dengan nama profile.png ke folder images
+  avatar           : "profile.jpeg" # Nanti kamu bisa upload foto dengan nama profile.png ke folder images
   name             : "Ripa Khodijah"
   pronouns         : "she/her"  
   bio              : "Physics graduate specializing in Geophysics and Data Science. Passionate about volcanology, atmospheric science, and spatial data analysis."
